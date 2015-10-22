@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/gaj-x-kamu|Ethnologue data]]
 
-
 **Resources**
 
   * [[gaj-x-kamu:obs|Open Bible Stories (gaj-x-kamu)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:gaj-x-kamu:obs:status}}
